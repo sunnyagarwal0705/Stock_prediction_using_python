@@ -1,6 +1,6 @@
 # Stock_prediction_using_python
 Project on stock prediction using Python which involves following tasks:
-1) Reading 1 year period data of Amazon, Microsoft, Google and Apple from Yahoo finance website directly.
+1) Reading 1 year period data of Amazon, Microsoft, Google and Apple from Google finance through pandas_datareader.
 2) Cleaning the data
 3) Finding change in stock price over time.
 4) Visualizing the Change in stock's volume being traded over time.
